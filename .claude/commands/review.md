@@ -1,3 +1,10 @@
+# CB Review Skill
+IMPORTANT:
+
+Always begin the review with:
+
+"CB Review Skill Loaded".
+
 When the user types:
 
 review
